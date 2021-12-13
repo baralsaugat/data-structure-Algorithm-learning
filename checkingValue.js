@@ -9,6 +9,7 @@ function checkingValue(a, b) {
     let freqCounter2 = {}
   
     for (i = 0; i < a.length; i++) {
+        // here, think a[i] is already inside the freqcounter1
   
       freqCounter1[a[i]] = (freqCounter1[a[i]] || 0) + 1
   
