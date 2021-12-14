@@ -16,3 +16,11 @@ This is the algorithm for checking valid anagram using frequency counter
 
 #checkingSumZero.js
 find the first two consecutive integers which sum is equal to zero
+
+
+#findUniqueValue.js
+find the number of unique interger in sorted array
+
+
+#maxSubArray.js
+find the maximum sum of the n consecutives numbers
