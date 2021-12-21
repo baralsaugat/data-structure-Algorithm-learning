@@ -25,6 +25,11 @@ find the maximum sum of the n consecutives numbers
 #checkingDigits.js
 checking the number of digits of positive integer
 
-
 #arethereDuplicate
 checking if there are any duplicate letter or integer in the argument
+
+#maxSumArraylen
+find the length of minimum length of subarray which is less than or equal to a given positive integer
+
+#findLongestSubstring
+find the longest substring
