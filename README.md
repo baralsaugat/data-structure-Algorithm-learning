@@ -33,3 +33,8 @@ find the length of minimum length of subarray which is less than or equal to a g
 
 #findLongestSubstring
 find the longest substring
+
+<!-- RECURSIVE PROBLEM -->
+
+#nestedEvenSum
+find the sum of all the even numbers in an nested object
