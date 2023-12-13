@@ -12,3 +12,17 @@ function isPalindrome(str) {
   if (str[0] === str.slice(-1)) return isPalindrome(str.slice(1, -1));
   return false;
 }
+
+function betNumber(amount, count) {
+  newCount = count;
+  if (amount <= 1) {
+    console.log("Count = " + newCount);
+  } else {
+    newCount++;
+
+    newAmount = amount - 0.1 * amount;
+    console.log(newAmount);
+
+    return betNumber(newAmount, newCount);
+  }
+}
